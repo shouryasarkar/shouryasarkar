@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently persuing **B.Tech** in **Electronics and Instrumentation**
 
-- 🌱 I’m currently learning **Web Development and Robotics**
+- 🌱 Currently learning **Web Development and Robotics**
 
 - 📫 How to reach me **shouryasarkar.official@gmail.com**
 
