@@ -27,8 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouryasarkar&" alt="shourya" /></p>
 
+<p align = "left">
 ## What I work, or am familiar with:
 
 ### The languages I use:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryasarkar&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
