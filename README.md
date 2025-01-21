@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently persuing **B.Tech** in **Electronics and Instrumentation**
 
-- 🌱 Currently learning **Data Science Using Python**
+- 🌱 Currently learning **Data Science and AI/ML**
 
 - 📫 How to reach me **shouryasarkar.official@gmail.com**
 
